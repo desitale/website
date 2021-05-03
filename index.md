@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Bem-vindo(a) a Desitale
 
-You can use the [editor on GitHub](https://github.com/desitale/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este é um site provisório, pois estou construindo o principal. Desitale me soa ser um bom nome, correto?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Talvez
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Estou utilizando um Markdown para escrever o Talvez, tbm me soa legal.
 
 ```markdown
-Syntax highlighted code block
+Syntax de código highlighted
 
-# Header 1
-## Header 2
-### Header 3
+# Cabeçario 1
+##  Cabeçario 2
+###  Cabeçario 3
 
-- Bulleted
-- List
+- Atirado
+- Listado
 
-1. Numbered
-2. List
+1. Numerado
+2. Listado
 
-**Bold** and _Italic_ and `Code` text
+**Bold** e _Italic_ e texto de `código`
 
-[Link](url) and ![Image](src)
+[Um link](url) and ![Uma Imagem](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/desitale/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Para mais detalhes, acesse: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Estamos trabalhando nisso... relaxa parceiro.
